@@ -8,7 +8,7 @@ You will know how to use VerticalGridFragment, Presenter and ArrayObjectAdapter.
 
 ## ScreenShot
 
-![Image](https://raw.githubusercontent.com/nehori/java-simple-verticalgridfragment-androidtv/master/screenshot/1.png)
+![Image](https://raw.githubusercontent.com/nehori/java-simple-verticalgridfragment-androidtv/master/screenshot/2.png)
 
 ## License
 Copyright 2016 nehori.
